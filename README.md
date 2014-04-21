@@ -1,4 +1,4 @@
-DistributedDatabases
+Distributed Computing
 ====================
 ```
 
